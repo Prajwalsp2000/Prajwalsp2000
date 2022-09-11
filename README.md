@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prajwalsp2000
+- 👋 Hi, I’m Prajwal Samshi
 - 👀 I’m interested in Data science and Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Competitive Programming
