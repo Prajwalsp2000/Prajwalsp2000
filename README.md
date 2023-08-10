@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajwal Samshi
 - 👀 I’m interested in Data science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Java Full Stack Development
 - 💞️ I’m looking to collaborate on Competitive Programming
 - 📫 How to reach me prajwalspdvg@gmail.com
 - contact me : 9482692351
